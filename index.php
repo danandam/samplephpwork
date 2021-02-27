@@ -1,11 +1,11 @@
-<!
+s<!
 <html>
 <body>
 
-<h1>Hello world after long time</h1>
+<h1> Devops interview </h1>
 
 <?php
-echo "version :Ver 1.0";
+echo "version :Ver 2.0";
 ?>
 
 </body>
